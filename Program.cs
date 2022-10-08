@@ -8,7 +8,8 @@
             //FlipCoin.FlipTheCoin();
             //LeapYear.TheLeapYear();
             //PowerOfTwo.ThePowerOfTwo();
-            Harmonic.HarmonicNumber();
+            //Harmonic.HarmonicNumber();
+            Factors.PrimeFactors();
         }
     }
 }
