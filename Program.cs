@@ -4,7 +4,8 @@
     {
         public static void Main(string[]args)
         {
-            Console.WriteLine("Welcome To Basic Core Programs");
+            //Console.WriteLine("Welcome To Basic Core Programs");
+            FlipCoin.FlipTheCoin();
         }
     }
 }
