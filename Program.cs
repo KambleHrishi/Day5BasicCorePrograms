@@ -5,7 +5,8 @@
         public static void Main(string[]args)
         {
             //Console.WriteLine("Welcome To Basic Core Programs");
-            FlipCoin.FlipTheCoin();
+            //FlipCoin.FlipTheCoin();
+            LeapYear.TheLeapYear();
         }
     }
 }
