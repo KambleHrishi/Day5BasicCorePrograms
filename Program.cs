@@ -6,7 +6,8 @@
         {
             //Console.WriteLine("Welcome To Basic Core Programs");
             //FlipCoin.FlipTheCoin();
-            LeapYear.TheLeapYear();
+            //LeapYear.TheLeapYear();
+            PowerOfTwo.ThePowerOfTwo();
         }
     }
 }
