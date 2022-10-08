@@ -7,7 +7,8 @@
             //Console.WriteLine("Welcome To Basic Core Programs");
             //FlipCoin.FlipTheCoin();
             //LeapYear.TheLeapYear();
-            PowerOfTwo.ThePowerOfTwo();
+            //PowerOfTwo.ThePowerOfTwo();
+            Harmonic.HarmonicNumber();
         }
     }
 }
